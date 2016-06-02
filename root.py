@@ -12,5 +12,5 @@ try:
 	file.close()
 except:
 	pass
-time.sleep(1)
-print fail_str
+	time.sleep(1)
+	print fail_str
